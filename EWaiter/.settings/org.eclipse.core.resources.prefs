@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/EWaiter/controller/order/OrderController.java=UTF-8
+encoding//src/main/java/com/EWaiter/dao/DeskDAO.java=UTF-8
+encoding//src/main/java/com/EWaiter/model/food/FoodModel.java=UTF-8
+encoding//src/main/java/com/EWaiter/model/food/FoodSortModel.java=UTF-8
+encoding//src/main/java/com/EWaiter/model/food/SortGroupsModel.java=UTF-8
+encoding//src/main/java/com/EWaiter/model/mer/MerTypeModel.java=UTF-8
+encoding//src/main/java/com/EWaiter/service/FoodTypeService.java=UTF-8
+encoding//src/main/java/com/EWaiter/service/order/OrderService.java=UTF-8
+encoding//src/main/java/com/EWaiter/util/BarcodeFactory.java=UTF-8
+encoding//src/main/java/com/EWaiter/util/ErrorCode.java=UTF-8
+encoding//src/main/java/test/TestDAO.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/menu/menu.jsp=UTF-8
+encoding//src/main/webapp/takeout.jsp=UTF-8
+encoding//src/main/webapp/takeout2.jsp=UTF-8
